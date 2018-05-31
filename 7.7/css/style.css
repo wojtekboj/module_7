@@ -478,6 +478,8 @@ header .main .button {
   color: #767676;
 }
 
+/* End Section Team */
+/* Section Promotion */
 .promotion {
   text-align: center;
   margin: 50px;
@@ -488,6 +490,73 @@ header .main .button {
   height: auto;
 }
 
-/* End Section Team */
+/* End Section Promotion */
+/* Section Contact */
+.contact {
+  background-image: url(../images/map.png);
+  height: 670px;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.contact h1 {
+  text-align: center;
+  font-family: "Monteserrat", sans-serif;
+  font-size: 40px;
+  padding-top: 100px;
+  color: #FFF;
+  text-transform: uppercase;
+}
+
+.contact p {
+  text-align: center;
+  font-family: "Monteserrat", sans-serif;
+  text-align: center;
+  color: #727272;
+  font-size: 20px;
+  margin-top: -30px;
+  padding-bottom: 80px;
+}
+
+.contact input {
+  width: 100%;
+  max-width: 457px;
+  height: 50px;
+  margin: 15px 60px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: "Monteserrat", sans-serif;
+}
+
+.contact textarea {
+  width: 100%;
+  max-width: 456px;
+  height: 210px;
+  margin-top: 15px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: "Monteserrat", sans-serif;
+}
+
+.button1 {
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: #FED136;
+  border-color: #FED136;
+  color: #FFF;
+  text-size: 16px;
+  margin: 20px auto 0 auto;
+  cursor: pointer;
+  padding-top: 15px;
+  text-transform: uppercase;
+  font-family: "Monteserrat", sans-serif;
+}
+
+/* End Section Contact */
 
 /*# sourceMappingURL=style.css.map */
