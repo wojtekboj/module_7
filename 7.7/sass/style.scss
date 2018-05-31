@@ -278,3 +278,73 @@ header {
 }
 
 /* End Section Portfolio */
+
+/* Section About Us */
+
+.about {
+    margin-top: 50px;
+
+    .about_header {
+        h1 {
+            text-align: center;
+            padding-top: 40px;
+            font-family: $fonts;
+            text-transform: uppercase;
+            font-size: 40px;
+        }
+
+        p {
+            text-align: center;
+            color: #727272;
+            font-size: 20px;
+            margin-top: -30px;
+            padding-bottom: 80px;
+        }
+
+    }
+
+    hr {
+        width: 1px;
+        height: 120px;
+        border: 1px solid #F1F1F1;
+        margin-top: -20px;
+        margin-bottom: -20px;
+    }
+
+    img {
+        opacity: 0.5;
+        &:hover {
+            opacity: 1;
+            cursor: pointer;
+            transition: .9s;
+        }
+    }
+}
+
+.right {
+    font-family: $fonts;
+    text-align: right;
+    margin: 0 40px 15px 0;
+}
+
+.right_h2 {
+    font-family: $fonts;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: -10px;
+}
+
+.left {
+    font-family: $fonts;
+    text-align: left;
+    margin: 0 0 15px 40px;
+}
+
+.left_h2 {
+    font-family: $fonts;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+
+/* End Section About Us */
