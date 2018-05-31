@@ -558,5 +558,14 @@ header .main .button {
 }
 
 /* End Section Contact */
+/* Section Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  font-family: "Monteserrat", sans-serif;
+  color: #767676;
+}
+
+/* End Section Footer */
 
 /*# sourceMappingURL=style.css.map */
