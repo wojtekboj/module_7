@@ -130,3 +130,61 @@ header {
 }
 
 /* End Header */
+
+/* Section Services */
+
+.services {
+    padding-bottom: 70px;
+
+    .serv {
+        h1 {
+            text-align: center;
+            font-family: $fonts;
+            text-transform: uppercase;
+            font-size: 40px;
+            color: #212121;
+            margin-top: 120px;
+        }
+
+        p {
+            text-align: center;
+            color: #727272;
+            font-size: 20px;
+            margin-top: -30px;
+        }
+    }
+
+    .services_img {
+        margin-top: 100px;
+        text-align: center;
+        font-family: $fonts;
+
+        p {
+            padding: 5px 20px;
+            color: #727272;
+        }
+    }
+}
+
+.icon-serv {
+    width: 70px;
+    height: 70px;
+    color: #FED136;
+    border: 3px solid #FED136;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.shopping-basket,
+.laptop,
+.lock {
+    color: #FED136;
+    background-color: #FFF;
+    &:hover {
+        color: #FFF;
+        background-color: #FED136;
+    }
+}
+
+/* End Section Service */
