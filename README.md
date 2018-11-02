@@ -21,7 +21,7 @@ The following tools were used
 
 ## Screen 
 
-![Screen](./images/screencapture_mini.jpg)
+![Screen](https://github.com/wojtekboj/module_7/blob/master/7.7/images/screencapture_mini.jpg)
 
 ## Working Page
 https://wojtekboj.github.io/module_7/7.7/index.html
