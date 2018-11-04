@@ -22,7 +22,7 @@ The following tools were used
 
 ## Screen 
 
-![Screen](https://github.com/wojtekboj/module_7/tree/master/images/screencapture_mini.jpg)
+![Screen](https://github.com/wojtekboj/module_7/blob/master/images/screencapture_mini.jpg)
 
 ## Working Page
 https://wojtekboj.github.io/module_7/index.html
